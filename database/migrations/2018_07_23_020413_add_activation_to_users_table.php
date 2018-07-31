@@ -32,5 +32,4 @@ class AddActivationToUsersTable extends Migration
         });
     }
 
-
 }
